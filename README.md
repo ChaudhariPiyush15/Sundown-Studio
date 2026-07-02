@@ -30,4 +30,4 @@
 
 ## 📁 Directory Structure
 
-it help me to build my first project. it was very nice experience.
+it help me to build my first project.
