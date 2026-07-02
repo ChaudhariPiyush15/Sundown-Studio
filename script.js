@@ -5,7 +5,7 @@ const scroll = new LocomotiveScroll({
 
 
 function swiperAnimation() {   
-var swiper = new Swiper(".mySwiper", {
+var swiper = new Swiper(".mySwiper", { 
       slidesPerView: "auto",
       centeredSlides: true,
       spaceBetween: 100,
