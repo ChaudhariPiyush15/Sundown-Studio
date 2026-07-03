@@ -21,3 +21,4 @@ setTimeout(function(){
 
 swiperAnimation()
 loaderAnimation()
+
